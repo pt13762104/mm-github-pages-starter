@@ -24,7 +24,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
-repository: "pt13762104/mm-github-pages-starter"
+repository: pt13762104/mm-github-pages-starter
 # Build settings
 markdown: kramdown
 theme: minimal-mistakes-jekyll
